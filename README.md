@@ -46,7 +46,7 @@
 <h2> Usage </h2>
 
 <ul>
-    <p><u>Step 1:</u></p>
+    <li> Run the desired file to start the game. </li>
     <li> You will be given a countdown until the start of the game. </li>
     <li> Use the up and down arrows to control your paddle. </li>
     <li> Use the S and W keys to control player 2 paddle (if you are playing versus). </li>
