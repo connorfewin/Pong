@@ -62,21 +62,21 @@
 
 <h2> Troubleshooting </h2>
 
-<p> Why isn't it giving me a response after I give the animal a name? </p>
+<p> Can I increase the difficulty of the CPU? </p>
 
 <ul>
-    <li> Make sure you pressed ENTER after each prompt.</li>
+    <li> Yes! If you go into the pygame code and increase the oponent speed, the difficulty of the CPU will increase.</li>
 </ul>
 
-<p> Why can't I run the program?</p>
+<p> How do I change the score limit?</p>
 <ul>
-    <li> Make sure your edition of Java is up to date.</li>
-    <li> Redo the Installation process. It may not have worked the first time </li>
+    <li> First, look under the collisions comment, there are multiple lines regarding score.</li>
+    <li> Change player_score and/or oponent_score to the desired limit. </li>
 </ul>
 
 <h2> Support </h2>
 
-<p>If you have any questions, feel free to contact me at nuneskn@appstate.edu.</p>
+<p>If you have any questions, feel free to contact me at fewincj@appstate.edu.</p>
 
 </body>
 </head>
