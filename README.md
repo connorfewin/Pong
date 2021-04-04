@@ -51,3 +51,33 @@
     <li> Use the up and down arrows to control your paddle. </li>
     <li> Use the S and W keys to control player 2 paddle (if you are playing versus). </li>
 </ul>
+
+<h2> Notes </h2>
+
+<ul>
+    <li> The game is set up to fit my computer screeen, the resolution may different on your device.</li>
+    <li> To stop the game terminate the file.</li>
+    <li> The first player to 5 wins the game, the game will automatically close.
+</ul>
+
+<h2> Troubleshooting </h2>
+
+<p> Why isn't it giving me a response after I give the animal a name? </p>
+
+<ul>
+    <li> Make sure you pressed ENTER after each prompt.</li>
+</ul>
+
+<p> Why can't I run the program?</p>
+<ul>
+    <li> Make sure your edition of Java is up to date.</li>
+    <li> Redo the Installation process. It may not have worked the first time </li>
+</ul>
+
+<h2> Support </h2>
+
+<p>If you have any questions, feel free to contact me at nuneskn@appstate.edu.</p>
+
+</body>
+</head>
+
