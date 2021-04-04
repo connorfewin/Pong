@@ -27,3 +27,17 @@
     <li> Play pong against the CPU.</li>
     <li> Play pong against an oponent on the same device. </li>
 </ul>
+
+<h2> Installation </h2>
+
+<ul>
+    <p><u>Things you need</u></p>
+    <li> Visual Studio (or any IDE of your choice) </li>
+</ul>
+
+<ul>
+     <p><u>Installation: Step 1</u></p>
+     <li> Copy and paste all the files found in the src into your IDE </li>
+     <li> Run pygame if you want to play against the computer  </li>
+     <li> Run versus if you want to play against another person on the same device.  </li>
+</ul>
