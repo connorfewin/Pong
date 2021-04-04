@@ -33,10 +33,10 @@
 <ul>
     <p><u>Things you need</u></p>
     <li> Visual Studio (or any IDE of your choice) </li>
+    
 </ul>
 
 <ul>
-    
      <p><u>Installation: Step 1</u></p>
      <li> Copy and paste all the files found in the src into your IDE </li>
      <li> Run pygame if you want to play against the computer  </li>
