@@ -19,5 +19,5 @@
 <h2> Introduction </h2>
     
 <p>Welcome to Pong!</p>
-<p>The Github page can be found <a href = "https://github.com/nuneskn/Zoo-">here</a>
+<p>The Github page can be found <a href = "https://github.com/connorfewin/Pong-">here</a>
 
