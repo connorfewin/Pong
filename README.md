@@ -21,3 +21,9 @@
 <p>Welcome to Pong!</p>
 <p>The Github page can be found <a href = "https://github.com/connorfewin/Pong">here</a>
 
+<h2> Features </h2>
+
+<ul>
+    <li> Play pong against the CPU.</li>
+    <li> Play pong against an oponent on the same device. </li>
+</ul>
