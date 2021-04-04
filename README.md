@@ -42,3 +42,12 @@
      <li> Run pygame if you want to play against the computer  </li>
      <li> Run versus if you want to play against another person on the same device.  </li>
 </ul>
+
+<h2> Usage </h2>
+
+<ul>
+    <p><u>Step 1:</u></p>
+    <li> You will be given a countdown until the start of the game. </li>
+    <li> Use the up and down arrows to control your paddle. </li>
+    <li> Use the S and W keys to control player 2 paddle (if you are playing versus). </li>
+</ul>
