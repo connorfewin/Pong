@@ -1,11 +1,11 @@
 <!DOCCTYPE html>
 <html>
 <head>
-<title>Create your own Zoo!</title>
+<title>Pong!</title>
 </head>
 <body>
 
-<h1>How do I create my own Zoo?</h1>
+<h1>How Do I Play Pong?</h1>
 <h2>Table of Contents</h2>
 <ol>
     <li> Introduction </li>
